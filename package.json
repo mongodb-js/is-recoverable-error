@@ -1,0 +1,18 @@
+{
+  "name": "recoverable-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "acorn": "^7.1.1",
+    "acorn-class-fields": "^0.3.2",
+    "acorn-numeric-separator": "^0.3.1",
+    "acorn-private-methods": "^0.3.1",
+    "acorn-static-class-features": "^0.2.1"
+  }
+}
