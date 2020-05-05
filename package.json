@@ -1,6 +1,6 @@
 {
   "name": "is-recoverable-error",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "isRecoverableError from Node.js' REPL",
   "main": "index.js",
   "scripts": {
