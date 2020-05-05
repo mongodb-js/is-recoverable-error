@@ -9,7 +9,7 @@
   },
   "author": "Irina Shestak <shestak.irina@gmail.com>",
   "bugs": {
-    "url": "https://github.com/lrlna/is-recoverable-error/issues"
+    "url": "https://github.com/mongodb-js/is-recoverable-error/issues"
   },
   "standard": {
     "globals": [
@@ -23,7 +23,7 @@
       "expect"
     ]
   },
-  "homepage": "https://github.com/lrlna/is-recoverable-error#readme",
+  "homepage": "https://github.com/mongodb-js/is-recoverable-error#readme",
   "license": "Apache-2.0",
   "dependencies": {
     "acorn": "^7.1.1",
