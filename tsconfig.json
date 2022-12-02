@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "downlevelIteration": true,
+
+    "strict": true,
+    "noImplicitReturns": true,
+
+    "declaration": true,
+    "removeComments": true,
+    "target": "es2018",
+    "lib": ["es2019"],
+    "module": "commonjs",
+    "moduleResolution": "node"
+  }
+}
