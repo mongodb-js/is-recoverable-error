@@ -24,7 +24,7 @@
     ]
   },
   "homepage": "https://github.com/mongodb-js/is-recoverable-error#readme",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "dependencies": {
     "acorn": "^7.1.1",
     "acorn-class-fields": "^0.3.2",

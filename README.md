@@ -34,8 +34,8 @@ isRecoverableErorr('<cat>') // returns false
 
 # Installation
 ```
-npm install -S is-recoverable-error 
+npm install -S is-recoverable-error
 ```
 
 # License
-Apache-2.0
+MIT
